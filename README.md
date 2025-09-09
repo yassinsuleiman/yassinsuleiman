@@ -9,7 +9,7 @@
 
 ## 📂 Current Focus  
 
-- 🔭 Project: [AWS Fundementals]([https://github.com/yassinsuleiman/DevoOps-Docker-Learning](https://github.com/yassinsuleiman/DevOps-Learning-AWS))  
+- 🔭 Project: [AWS Fundamentals](https://github.com/yassinsuleiman/DevOps-Learning-AWS)
 - 🌱 Deepening knowledge in **Terraform, Kubernetes, and CI/CD pipelines**  
 - 👨‍💻 Explore all my repos [here](https://github.com/yassinsuleiman?tab=repositories)  
 
