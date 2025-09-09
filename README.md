@@ -1,17 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yassin Suleiman</h1>
-<h3 align="center">A DevOps Engineer</h3>
+# 👋 Hi, I'm Yassin Suleiman  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinsuleiman&label=Profile%20views&color=0e75b6&style=flat" alt="yassinsuleiman" /> </p>
+🛠️ **DevOps Engineer with roots in system engineering**, passionate about building reliable and automated infrastructure.  
 
-- 🔭 I’m currently working on [Docker Fundementals](https://github.com/yassinsuleiman/DevoOps-Docker-Learning)
+**Skills:** Linux, Bash, Git, Azure, Docker  
+💡 **Upskilling:** AWS, Terraform, GitHub Actions, Kubernetes  
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/yassinsuleiman?tab=repositories)
+---
 
-- 📝 I regularly write articles on [Linkedin](http://linkedin.com/in/ysuleiman/)
+## 📂 Current Focus  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🔭 Project: [AWS Fundementals]([https://github.com/yassinsuleiman/DevoOps-Docker-Learning](https://github.com/yassinsuleiman/DevOps-Learning-AWS))  
+- 🌱 Deepening knowledge in **Terraform, Kubernetes, and CI/CD pipelines**  
+- 👨‍💻 Explore all my repos [here](https://github.com/yassinsuleiman?tab=repositories)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
+
+## 🧰 Languages & Tools (Visual)  
+
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+</p>  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 LinkedIn: [linkedin.com/in/ysuleiman](https://linkedin.com/in/ysuleiman/)  
+- 🐙 GitHub: [github.com/yassinsuleiman](https://github.com/yassinsuleiman)  
+
+---
+
+⭐ Always building, always learning 🚀  
