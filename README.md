@@ -9,7 +9,7 @@
 
 ## 📂 Current Focus  
 
-- 🔭 Project: [AWS Fundamentals](https://github.com/yassinsuleiman/DevOps-Learning-AWS)
+- 🔭 Project: [Terraform Project]([https://github.com/yassinsuleiman/DevOps-Learning-AWS](https://github.com/yassinsuleiman/DevOps-Learning-Terraform))
 - 🌱 Deepening knowledge in **Terraform, Kubernetes, and CI/CD pipelines**  
 - 👨‍💻 Explore all my repos [here](https://github.com/yassinsuleiman?tab=repositories)  
 
