@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yassin Suleiman  
 
-🛠️ **DevOps Engineer with roots in system engineering**, passionate about building reliable and automated infrastructure.  
+🛠️ **DevOps Engineer** passionate about building reliable and automated infrastructure.  
 
 **Skills:** Linux, Bash, Git, Docker, AWS
 💡 **Upskilling:** Terraform, GitHub Actions, Kubernetes  
