@@ -9,8 +9,8 @@
 
 ## 📂 Current Focus  
 
-- 🔭 Project: [Terraform Project](https://github.com/yassinsuleiman/DevOps-Learning-AWS](https://github.com/yassinsuleiman/DevOps-Learning-Terraform))
-- 🌱 Deepening knowledge in **Terraform, Kubernetes, and CI/CD pipelines**  
+- 🔭 Project: [Wordpress Terraform Project](https://github.com/yassinsuleiman/DevOps-Learning-Terraform)
+- 🌱 Deepening knowledge in **Kubernetes, and CI/CD pipelines**  
 - 👨‍💻 Explore all my repos [here](https://github.com/yassinsuleiman?tab=repositories)  
 
 ---
@@ -33,7 +33,10 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-</p>  
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
+  </a>
+</p>   
 
 ---
 
