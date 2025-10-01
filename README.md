@@ -2,8 +2,8 @@
 
 🛠️ **DevOps Engineer** passionate about building reliable and automated infrastructure.  
 
-**Skills:** Linux, Bash, Git, Docker, AWS
-💡 **Upskilling:** Terraform, GitHub Actions, Kubernetes  
+**Skills:** Linux, Bash, Git, Docker, AWS, Terraform
+💡 **Upskilling:** CI/CD, Kubernetes  
 
 ---
 
