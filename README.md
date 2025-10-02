@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yassin Suleiman</h1>
+<h1 align="center">👋 Hi, I'm Yassin</h1>
 <h3 align="center">DevOps Engineer | Linux • AWS • Terraform • Docker • CI/CD</h3>
 
 <p align="left"> 
