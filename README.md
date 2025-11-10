@@ -9,8 +9,8 @@
 
 ## 📂 Current Focus  
 
-- 🔭 Working on: [WordPress on AWS with Terraform](https://github.com/yassinsuleiman/DevOps-Learning-Terraform)  
-- 🌱 Upskilling in **Kubernetes, CI/CD, and Cloud Security**  
+- 🔭 Working on: [ECS Project]([https://github.com/yassinsuleiman/DevOps-Learning-Terraform](https://github.com/yassinsuleiman/ECS-Project))  
+- 🌱 Upskilling in **Kubernetes and AWS ECS**  
 - 👨‍💻 Explore all my projects [here](https://github.com/yassinsuleiman?tab=repositories)  
 
 ---
@@ -36,9 +36,10 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
   </a>
-</p>   
-
----
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
+  </a>
+</p>  
 
 ## 📊 GitHub Stats  
 
