@@ -7,8 +7,8 @@ Right now I’m building on AWS with a focus on automation, security gates, obse
 ---
 
 ## 🚧 Current Focus
-- **Working on:** EKS STACK Project
-- **Now learning:** **EKS (Kubernetes on AWS)** + Kubernetes fundamentals
+- **Working on:** EKS GitOps Project
+- **Now learning:** **EKS (Kubernetes on AWS)**
 - **More repos:** https://github.com/yassinsuleiman?tab=repositories
 
 ---
