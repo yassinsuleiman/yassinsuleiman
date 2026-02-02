@@ -1,6 +1,6 @@
-# DevOps | Cloud
+# Yassin Suleiman
 
-DevOps-focused engineer building production-style cloud infrastructure with Terraform and shipping containerised workloads with CI/CD.
+DevOps engineer building production-style cloud infrastructure with Terraform and shipping containerised workloads with CI/CD.
 
 Right now I’m building on AWS with a focus on automation, security gates, observability, and reliable deployments.
 
